@@ -1,3 +1,5 @@
+This code is based on Konduktiva, a Javascript library for sequencing and live coding. In this version, users are allowed to play different chords using different commands. The notation used for the chords is Roman numeral notation.
+
 #These are the instructions of how to use a particular file (romanNumeral.js) to play different chord progression with a virtual MIDI synthesizer.
 
 Dependencies:

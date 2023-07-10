@@ -1,4 +1,4 @@
-#This is the instruction of how to use this code (romanNumeral.js) to play different chord progression with a virtual MIDI synthesizer.
+#These are the instructions of how to use a particular file (romanNumeral.js) to play different chord progression with a virtual MIDI synthesizer.
 
 Dependencies:
 

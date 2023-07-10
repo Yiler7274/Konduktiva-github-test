@@ -8,7 +8,7 @@ Dependencies:
 
 Instruction: 
 
-1. Setup your MIDI environment , a virtual sythesizer (i.e. Surge XT), and a virtual MIDI instrument (i.e. vmpk). You may need a host a host (i.e. Host AU)
+1. Setup your MIDI environment , a virtual sythesizer (i.e. Surge XT), and a virtual MIDI instrument (i.e. vmpk). You may need a host (i.e. Host AU) for the synthesizer.
 
 2. Load Konductiva (line 8 to 11) and start the musical environment scheduler (line 17 to 18).
 

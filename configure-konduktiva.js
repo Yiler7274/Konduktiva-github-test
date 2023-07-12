@@ -46,12 +46,9 @@ function editSessionPlayer(session, midiInfo, beat, channel) {
     console.log('chose to edit');
     let name = 'musicSynthesizerSession' + JSON.stringify(session)
     let sessionPlayer = e.players['musicSynthesizerSession' + session];
-    sessionPlayer.beat.keys = midiInfo.IoIs;
-    console.log(sessionPlayer.beat.keys);
-    sessionPlayer.beat.values = midiInfo.bools;
     sessionPlayer.keyspan = midiInfo.total;
     sessionPlayer.midiData = midiInfo;
-    sessionPlayer.beat = beat
+    sessionPlayer.beat = beat;
     sessionPlayer.session = 1;
     sessionPlayer.channel = channel;
     let adjustedIoisAndBools = extendIoisAndBools(midiInfo.music, midiInfo.IoIs, midiInfo.bools)

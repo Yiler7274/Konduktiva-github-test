@@ -1,0 +1,5470 @@
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+aspdioufhsdaf
+aspdioufhsdaf
+aspdioufhsdaf
+aspdioufhsdaf
+aspdioufhsdaf
+aspdioufhsdaf
+aspdioufhsdaf
+aspdioufhsdaf
+aspdioufhsdaf
+aspdioufhsdaf
+note:107
+velocity:110
+NaN
+output:undefined
+note:107
+velocity:92
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:92
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:110
+NaN
+output:undefined
+note:107
+velocity:92
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:92
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:110
+NaN
+output:undefined
+note:107
+velocity:92
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:110
+NaN
+output:undefined
+note:107
+velocity:92
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:undefined
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus2"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:110
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:92
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:107
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:99
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}
+note:102
+velocity:113
+NaN
+output:{"_output":{"output":{}},"name":"IAC驅動程式 Bus1"}

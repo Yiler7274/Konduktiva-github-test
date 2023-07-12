@@ -24,7 +24,7 @@ Instructions:
 
 7. Load line 61 to start playing the chord progression, line 63 to stop.
 
-8. You can change the chord progression by changing the "progression" variable in line 35, load line 37 to 49, and reasign the music synthesizer session. Each items in the progression array are represented in Roman numeral, here's the [Wikipedia article](https://en.wikipedia.org/wiki/Roman_numeral_analysis#:~:text=In%20music%20theory%2C%20Roman%20numeral,note%20is%20that%20scale%20degree.) about Roman numeral. For example, if you want to play the first 8 bars of the song Norweigian Wood by The Beatles, you need to load the folloing code:
+8. You can change the chord progression by changing the "progression" variable in line 35, load line 37 to 49, and reasign the music synthesizer session. Each items in the progression array are represented in Roman numeral, here's a [Wikipedia article](https://en.wikipedia.org/wiki/Roman_numeral_analysis#:~:text=In%20music%20theory%2C%20Roman%20numeral,note%20is%20that%20scale%20degree.) about Roman numeral. For example, if you want to play the first 8 bars of the song Norweigian Wood by The Beatles, you need to load the folloing code:
 
 progression = ["I", "I", "Vm", "I", "I", "I", "Vm", "I"]
 

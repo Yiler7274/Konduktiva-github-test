@@ -10,7 +10,7 @@ Dependencies:
 
 Instructions: 
 
-1. Setup your MIDI environment , a virtual sythesizer (i.e. Surge XT), and a virtual MIDI instrument (i.e. vmpk). You may need a host (i.e. Host AU) for the synthesizer.
+1. Setup your MIDI environment , a virtual sythesizer (i.e. Surge XT), and a virtual MIDI instrument (i.e. vmpk). You may need a host (i.e. Host AU) for the synthesizer if you are using a mac.
 
 2. Load Konductiva (line 8 to 11) and start the musical environment scheduler (line 17 to 18).
 
@@ -26,3 +26,26 @@ Instructions:
 
 8. You can change the chord progression by changing the "progression" variable in line 35, load line 37 to 49, and reasign the music synthesizer session. For example, if you want to play the first 8 bars of the song Norweigian Wood by The Beatles, you can load the code in the norwegian-wood.js file.
 
+If you are using a mac, these are the instructions for how to setup a MIDI environment:
+
+Dependencies: 
+
+1. Go to your MIDI studio by opening the Audio MIDI setup app, click window on the top bar, and click "Show MIDI studio".
+
+2. Click the IAC driver block and add 4 ports, you can name them however you want.
+
+3. Install a host ([Hosting AU](http://ju-x.com/hostingau.html) is used in this example)
+
+4. Install a virtual MIDI synthesizer ([Surge XT](https://surge-synthesizer.github.io/) is used in this example)
+
+5. Install a virtual MIDI instrument ([vmpk virtual keyboard](https://sourceforge.net/projects/vmpk/) is used in this example)
+
+Instructions: 
+
+1. Start by lauching your Hosting AU and vmpk keyboard.
+
+2. Assign a synthesizer to a track in Hosting AU by clicking the "No instrument" button.
+
+3. Go to the example-session.js file and run updateMidiOutputList(e) (line 52)
+
+4. If you see the ports you created in your MacOS MIDI studio when you run e.outputs, your MIDI environment is setup successfully.

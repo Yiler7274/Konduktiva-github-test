@@ -8,7 +8,7 @@ Dependencies:
 
 2. Easymidi (npm package): You can install easymidi by running "npm install easymidi" in your shell command.
 
-Instruction: 
+Instructions: 
 
 1. Setup your MIDI environment , a virtual sythesizer (i.e. Surge XT), and a virtual MIDI instrument (i.e. vmpk). You may need a host (i.e. Host AU) for the synthesizer.
 

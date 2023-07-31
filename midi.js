@@ -23,7 +23,8 @@ function sendMidiData(info, player, note) {
 
 
 function sortMidiInfo(index, player) {
-    console.log(player.midiData.music)
+    console.log(index + "alsdfn")
+    //console.log(player.midiData.music)
     let info = {
         IoIs: player.midiData.IoIs[index],
         bool: player.midiData.bools[index],
@@ -31,6 +32,7 @@ function sortMidiInfo(index, player) {
         music: player.midiData.music[index],
         type: player.midiData.type
     }
+    console.log(info.music)
     //console.log(info.IoIs)
     if (info.type == "chords") {
         //console.log("chords")
@@ -46,8 +48,6 @@ function sortMidiInfo(index, player) {
     }
     return true
 }
-
-
 
 
 function generateChords(root, octave, progression) {
@@ -94,10 +94,50 @@ function generateMelodies(root, octave, majorOrMinor) {
     return melody
 }
 
+function generateChordProgression(chordLengths, key, counterClockwiseChance){
+    let progression = [];
+    let circleOfFifth = createCircleOfFifths(key);
+    let currentNoteIndex = 0;
+    //console.log(chordLengths.length)
+    for (let i = 0; i < chordLengths.length; i ++){
+        if (currentNoteIndex < 0){
+            currentNoteIndex += 11
+        }
+        else if (currentNoteIndex >= 12){
+            currentNoteIndex = 0;
+        }
+        progression.push(circleOfFifth[currentNoteIndex]);
+        if (1 - Math.random() < counterClockwiseChance){
+            currentNoteIndex -= 1;
+        }
+        else {
+            currentNoteIndex += 1;
+        }
+    }
+    let romanNumeralProgression = Progression.toRomanNumerals(key, progression);
+    return romanNumeralProgression
+}
+
 
 // THIS FUNCtion is useful when you want to turn a chord into a bunch of midi key values.
-//change this
 function getMidiKeys(scaleOrChordNotesArray) {
     let outputArray = scaleOrChordNotesArray.map(note => Note.midi(note))
     return outputArray
 }
+
+//generated with ChatGPT
+function createCircleOfFifths(startingNote) {
+      // Define the starting note (C major)
+      let currentNote = startingNote;
+      const circle = [currentNote];
+      // Loop through 11 times to complete the circle of fifths
+      for (let i = 0; i < 11; i++) {
+        // Get the next note in the circle (up a perfect fifth)
+        currentNote = Note.transpose(currentNote, "P5");
+        circle.push(currentNote);
+      }
+      // Print the circle of fifths
+      console.log(circle);
+      return circle;
+    }
+

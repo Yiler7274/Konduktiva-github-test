@@ -9,10 +9,11 @@
 .load ./steve-mod-konduktiva/testingKonduktiva-revised.js
 .load ./steve-mod-konduktiva/konduktiva-superdirt-revised.js
 .load ./steve-mod-konduktiva/defaultsuperdirtplayers-revised.js
-.load ./functions-classes/general.js
-.load ./functions-classes/array-utilities.js
-.load ./functions-classes/midi.js
-.load ./functions-classes/konduktiva.js
+.load ./utilities-general.js
+.load ./utilities-array.js
+.load ./midi.js
+.load ./rhythm.js
+.load ./configure-konduktiva.js
 setupScheduler(e)
 e.startScheduler()
 const easymidi = require('easymidi');
@@ -27,15 +28,47 @@ const {
     Midi
 } = require("tonal")
 
-let twoBars = barsToBeats(4, buildArray(3, (x) => {return x}))
-
 e.outputs = []
 
 
-let progression = [["IIm9", "IIm9", "V", "V"], ["IIIm7", "IIIm7", "VIm","VIm"]]
+
+let progression = ["IIm9", "IIm9", "V", "V", "IIIm7", "IIIm7", "VIm","VIm"]
+
+let chords = generateChords("D", 5, progression)
 
 
-let chords2 = generateChords("D", 5, progression)
+let iois = [2,1,2,1]
+
+iois = [1,1,1,1]
+
+generateMidiInfoData2 = {
+    velocity: buildArray(8, ((x) => {
+        return steveRandomRange(80, 110)
+    })),
+    IoIs: iois,
+    bools: [true, true, true, true],
+    music: generateChords("C", 5,generateChordProgression(iois, "C", 0.5)),
+    total: 8,
+    type: "chords"
+}
+
+
+updateMidiOutputList(e)
+
+e.changeTempo(113)
+
+
+let beats = [0,1,2,3]
+
+assignPlayerForMusicSynthesizerSession(1, generateMidiInfoData2, beats, 1)
+
+e.play('musicSynthesizerSession1')
+
+e.stop("musicSynthesizerSession1")
+
+progression = ["I", "I", "Vm", "I", "I", "I", "Vm", "I"]
+
+chords = generateChords("E", 5, progression)
 
 generateMidiInfoData2 = {
     velocity: buildArray(8, ((x) => {
@@ -43,23 +76,9 @@ generateMidiInfoData2 = {
     })),
     IoIs: [1,1,1,1],
     bools: [true, true, true, true],
-    music: chords2,
+    music: chords,
     total: 8,
     type: "chords"
 }
 
-updateMidiOutputList(e)
-
-e.changeTempo(113)
-
-
-let testQM = new QuantizedMap(4, [1,2,3,4], [1,2,3,4])
-
-assignPlayerForMusicSynthesizerSession(1, generateMidiInfoData2, twoBars, testQM, 1)
-e.players.musicSynthesizerSession1
-
-
-e.play('musicSynthesizerSession1')
-
-e.stop("musicSynthesizerSession1")
-
+assignPlayerForMusicSynthesizerSession(1, generateMidiInfoData2, beats, 1)

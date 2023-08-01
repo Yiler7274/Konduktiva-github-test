@@ -30,16 +30,11 @@ const {
 
 e.outputs = []
 
-
-
 let progression = ["IIm9", "IIm9", "V", "V", "IIIm7", "IIIm7", "VIm","VIm"]
 
 let chords = generateChords("D", 5, progression)
 
-
-let iois = [2,1,2,1]
-
-iois = [1,1,1,1]
+let iois = [1,1,1,1]
 
 generateMidiInfoData2 = {
     velocity: buildArray(8, ((x) => {
@@ -52,11 +47,9 @@ generateMidiInfoData2 = {
     type: "chords"
 }
 
-
 updateMidiOutputList(e)
 
 e.changeTempo(113)
-
 
 let beats = [0,1,2,3]
 

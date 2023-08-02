@@ -18,13 +18,13 @@ Instructions:
 
 4. Load easymidi (line 21 to 29).
 
-5. update MIDI output list (line 52) and define necessary arguments for music synthesizer session (line 35 to 49). This step may be skipped depending on the device you are using.
+5. update MIDI output list (line 52) and define necessary variables for music synthesizer session (line 33 to 48).
 
-6. Assign a music synthesizer session (line 59).
+6. Assign a music synthesizer session (line 56).
 
-7. Load line 61 to start playing the chord progression, line 63 to stop.
+7. Load line 58 to start playing the chord progression, line 60 to stop.
 
-8. You can change the chord progression by changing the "progression" variable in line 35, load line 37 to 49, and reasign the music synthesizer session. For example, if you want to play the first 8 bars of the song Norweigian Wood by The Beatles, you can load the code in the norwegian-wood.js file.
+8. You can change the chord progression by changing the "progression" variable in line 33, load line 39 to 48, and reasign the music synthesizer session. For example, if you want to play the first 8 bars of the song Norweigian Wood by The Beatles, you can load the code in the norwegian-wood.js file.
 
 If you are using a mac, these are the instructions for how to setup a MIDI environment:
 

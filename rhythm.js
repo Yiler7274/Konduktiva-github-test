@@ -9,6 +9,3 @@ function beatsToTime(tempo, beats) {
     let beatsPerSecond = (tempo / 60);
     return beats / beatsPerSecond
 }
-
-function currentBeatToIndex(b, session) {
-

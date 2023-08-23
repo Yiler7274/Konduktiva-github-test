@@ -141,3 +141,12 @@ function createCircleOfFifths(startingNote) {
       return circle;
     }
 
+function arpeggiateChordProgression(progression, numberOfNotes){
+    let chordsArpeggio = [];
+    progression.forEach(chord => {
+        for (let i = 0; i < numberOfNotes; i ++){
+            chordsArpeggio.push(pick(chord))
+        }
+    })
+    return chordsArpeggio
+}

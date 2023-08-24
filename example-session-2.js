@@ -59,9 +59,6 @@ generateMidiInfoData3 = {
     type: "melodies"
 }
 
-e.players.musicSynthesizerSession2
-
-
 updateMidiOutputList(e)
 
 e.changeTempo(113)

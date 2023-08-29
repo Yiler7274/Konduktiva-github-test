@@ -28,6 +28,8 @@ const {
     Midi
 } = require("tonal")
 
+updateMidiOutputList(e)
+
 let progression = ["IIm9", "IIm9", "V", "V", "IIIm7", "IIIm7", "VIm","VIm"]
 
 let chords = generateChords("D", 5, progression)
@@ -44,8 +46,6 @@ generateMidiInfoData2 = {
     total: 8,
     type: "chords"
 }
-
-updateMidiOutputList(e)
 
 e.changeTempo(113)
 

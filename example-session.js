@@ -28,8 +28,6 @@ const {
     Midi
 } = require("tonal")
 
-e.outputs = []
-
 let progression = ["IIm9", "IIm9", "V", "V", "IIIm7", "IIIm7", "VIm","VIm"]
 
 let chords = generateChords("D", 5, progression)

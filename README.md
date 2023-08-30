@@ -1,36 +1,123 @@
-This code is based on Konduktiva, a Javascript library for sequencing and live coding. In this version, users are allowed to play different chords using different commands. The notation used for the chords is Roman numeral notation. Here's a [Wikipedia article](https://en.wikipedia.org/wiki/Roman_numeral_analysis#:~:text=In%20music%20theory%2C%20Roman%20numeral,note%20is%20that%20scale%20degree.) about Roman numeral.
+This code is based on Konduktiva, a Javascript library for sequencing and live coding. In this version, users are allowed to play different chords using different commands. The notation used for the chords is Roman numeral notation. Here's a [Wikipedia article] (https://en.wikipedia.org/wiki/Roman_numeral_analysis#:~:text=In%20music%20theory%2C%20Roman%20numeral,note%20is%20that%20scale%20degree .) about Roman numerals.
 
 ## These are the instructions of how to use a particular file (example-session.js) to play different chord progression with a virtual MIDI synthesizer.
 
 Dependencies:
 
-1. Tonal (npm package): You can install tonal by running "npm install tonal" in your shell command.
+1. Tonal (npm package): You can install tonal by running the following command in your terminal:
 
-2. Easymidi (npm package): You can install easymidi by running "npm install easymidi" in your shell command.
+```
+npm install tonal
+```
+
+2. Easymidi (npm package): You can install easymidi by running the following command in your terminal
+
+```
+npm install easymidi
+```
 
 Instructions: 
 
-1. Setup your MIDI environment , a virtual sythesizer (i.e. Surge XT), and a virtual MIDI instrument (i.e. vmpk). You may need a host (i.e. Host AU) for the synthesizer if you are using a mac.
+1. Setup your MIDI environment , a virtual synthesizer (i.e. Surge XT), and a virtual MIDI instrument (i.e. vmpk). You may need a host (i.e. Host AU) for the synthesizer if you are using a mac.
 
-2. Load Konductiva (line 8 to 11) and start the musical environment scheduler (line 17 to 18).
+2. Load Konduktiva and all the files needed (line 8 to 16)
 
-3. Load all the necessary functions, classes, and gloabal variables (line 12~16).
+```javascript
+.load ./steve-mod-konduktiva/modified-konduktiva-revised.js
+.load ./steve-mod-konduktiva/testingKonduktiva-revised.js
+.load ./steve-mod-konduktiva/konduktiva-superdirt-revised.js
+.load ./steve-mod-konduktiva/defaultsuperdirtplayers-revised.js
+.load ./utilities-general.js
+.load ./utilities-array.js
+.load ./midi.js
+.load ./rhythm.js
+.load ./configure-konduktiva.js
+```
 
-4. Load easymidi (line 21 to 29).
+3. Start the musical environment scheduler (line 17 to 18).
 
-5. update MIDI output list (line 52) and define necessary variables for music synthesizer session (line 33 to 48).
+```javascript
+setupScheduler(e)
+e.startScheduler()
+```
 
-6. Assign a music synthesizer session (line 56).
+4. Load easymidi and tonal (line 21 to 29).
 
-7. Load line 58 to start playing the chord progression, line 60 to stop.
+```javascript
+const easymidi = require('easymidi');
 
-8. You can change the chord progression by changing the "progression" variable in line 33, load line 39 to 48, and reasign the music synthesizer session. For example, if you want to play the first 8 bars of the song Norweigian Wood by The Beatles, you can load the code in the norwegian-wood.js file.
+const {
+    Chord,
+    Interval,
+    Note,
+    Scale,
+    Key,
+    Progression,
+    Midi
+} = require("tonal")
+```
 
-If you are using a mac, these are the instructions for how to setup a MIDI environment:
+5. update MIDI output list (line 31) and define necessary variables for music synthesizer session (line 33 to 52).
+
+```javascript
+updateMidiOutputList(e)
+
+let progression = ["IIm9", "IIm9", "V", "V", "IIIm7", "IIIm7", "VIm","VIm"]
+
+let chords = generateChords("D", 5, progression)
+
+let iois = [1,1,1,1]
+
+generateMidiInfoData2 = {
+    velocity: buildArray(8, ((x) => {
+        return steveRandomRange(80, 110)
+    })),
+    IoIs: iois,
+    bools: [true, true, true, true],
+    music: generateChords("C", 5,generateChordProgression(iois, "C", 0.5)),
+    total: 8,
+    type: "chords"
+}
+
+e.changeTempo(113)
+
+let beats = [0,1,2,3]
+```
+
+6. Assign a music synthesizer session (line 54).
+
+```javascript
+assignPlayerForMusicSynthesizerSession(1, generateMidiInfoData2, beats, 1)
+```
+
+7. Load line 56 to start playing the chord progression, line 58 to stop.
+
+```javascript
+//play
+e.play('musicSynthesizerSession1')
+
+//stop
+e.stop("musicSynthesizerSession1")
+```
+
+8. You can change the chord progression by changing the "progression" variable in line 33, load line 39 to 48, and assign the music synthesizer session. The format of the progression variable is in Roman numerals, here are some examples of some progressions you can use:
+```javascript
+progression = [“IIm”, “V”, “I”]
+
+progression = [“I”, “III”, “IV”, “IVm”]
+
+progression = [“I”, “V”, “VIm”, “IV”]
+```
+The repository also has an example file “norwegian-wood.js” that demonstrates how to play the first 8 bars of the song Norwegian Wood by The Beatles. To use this file, you can copy the whole file and paste it in the console, or run the following code:
+```
+.load ./norwegian-wood.js
+```
+
+## If you are using a mac, these are the instructions for how to setup a MIDI environment:
 
 Dependencies: 
 
-1. Go to your MIDI studio by opening the Audio MIDI setup app, click window on the top bar, and click "Show MIDI studio".
+1. Go to your MIDI studio by opening the Audio MIDI setup app, click the window on the top bar, and click "Show MIDI studio".
 
 2. Click the IAC driver block and add 4 ports, you can name them however you want.
 
@@ -42,23 +129,28 @@ Dependencies:
 
 Instructions: 
 
-1. Start by lauching your Hosting AU and vmpk keyboard.
+1. Start by launching your Hosting AU and vmpk keyboard.
 
 2. Assign a synthesizer to a track in Hosting AU by clicking the "No instrument" button.
 
 3. Go to the example-session.js file and run updateMidiOutputList(e) (line 52)
 
-4. If you see the ports you created in your MacOS MIDI studio when you run e.outputs, your MIDI environment is setup successfully.
+4. If you see the ports you created in your MacOS MIDI studio when you run e.outputs, your MIDI environment is set up successfully.
 
 
 # Melodies
 
-The file example-session-2.js is an extensiion of example-session.js, which has an extra player that plays melodies.
+The file example-session-2.js is an extension of example-session.js, which has an extra player that plays melodies. The melodies are generated by the function arpeggiateChordProgression. This function takes two arguments, a chord progression (e.g. the chords variable on line 38 in the file example-session-2.js) and how many notes you want from each chord. The way this function works is that it randomly takes a demanded amount of notes from each chord in the chord progression therefore the output of the function might vary each time it’s loaded (not a deterministic algorithm).
 
-To play the chords and the molodies together, please follow the instructions below:
+After the melodies are generated, you need to create a ”midiInfo'' object that contains informations about the velocity of each note (array), the IoIs (rhythm pattern) for each note (array), the bools that decides if a note should be played or not (array), the melodies (array), the note span of the quantizedMap (number), and whether it’s chords or melodies that are being played (string). An example is on line 42 and 53 in the example-session-2.js file.
 
-  1. Run line 8 to 77 to set up the musical environment and assign session players.
-  2. Run play the and melodis by running the following code:
+To assign melodies or chords to a player, you will need to use the function assignPlayerForMusicSynthesizerSession which you can see in line 75 and 77 in the example-session-2.js file. This function takes 4 arguments, the number of the player, the midiInfo object, an array that determines how long a chord or a note will be played (see line 69 and 71), and what channel is the player in. 
+
+To play the chords and the melodies together, please follow the instructions below:
+
+  1. Run line 8 to 74 to set up the musical environment and assign session players.
+
+  2. Run play the and melodies by running the following code:
   ```javascript
   e.play('musicSynthesizerSession1')
 
@@ -70,3 +162,5 @@ To play the chords and the molodies together, please follow the instructions bel
 
   e.stop("musicSynthesizerSession2")
   ```
+
+
